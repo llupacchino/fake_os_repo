@@ -1,12 +1,12 @@
 {
     "packages": [
         {
-            "name": "example-package",
-            "version": "1.0.0",
-            "description": "An example package.",
+            "name": "hackerman",
+            "version": "0.0.1",
+            "description": "Simple network suite for Fake OS",
             "url": "http://example.com/example-package.zip",
-            "file": "example_package.py",
-            "command": "example"
+            "file": "hackerman.py",
+            "command": "hackerman"
         },
         {
             "name": "another-package",
