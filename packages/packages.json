@@ -4,7 +4,7 @@
             "name": "hackerman",
             "version": "0.0.1",
             "description": "Simple network suite for Fake OS",
-            "url": "http://example.com/example-package.zip",
+            "url": "https://github.com/llupacchino/fake_os_repo/raw/master/packages/hackerman.zip",
             "file": "hackerman.py",
             "command": "hackerman"
         },
